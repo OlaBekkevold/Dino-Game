@@ -5,3 +5,13 @@
     margin: auto;
 
 }
+
+#dino {
+    background-image: url("dino.png");
+    width: 75px;
+    height: 75px;
+    background-size: 75px 75px;
+    position: relative;
+    top: 135px;
+
+}
